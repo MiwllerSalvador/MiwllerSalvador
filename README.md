@@ -2,4 +2,4 @@
 
 ## Mis estadísticas son: 
 
-[![MiwllerSalvador's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiwllerSalvador)]
+![MiwllerSalvador's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiwllerSalvador&show_icons=true&theme=radical)
