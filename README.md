@@ -15,3 +15,7 @@
 [Adobe]: https://www.adobe.com/la/creativecloud.html?sdid=KQPRS&mv=search&ef_id=a8cec55aad91176f0eb3a0d745535909:G:s&s_kwcid=AL!3085!10!79233685095840!79233921356102&msclkid=a8cec55aad91176f0eb3a0d745535909
 
 [Java]: https://www.java.com/es/
+
+### 💻 Últimos videos de Youtube
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
